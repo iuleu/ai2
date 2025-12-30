@@ -147,9 +147,7 @@ Transfer Learning — это техника, при которой модель,
 
 #### Установка зависимостей
 
-```bash
 pip install -r requirements.txt
-
 
 
 
